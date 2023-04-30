@@ -29,6 +29,7 @@ sudo apt install docker-compose
 To start the lab, clone this repository and run the command
 
 ```
+To set permission: sudo chmod a+rw /var/run/docker.sock
 docker-compose up
 ```
 
